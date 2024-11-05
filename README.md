@@ -8,7 +8,7 @@ For simplicity, I will use the term script in describing the project. But you ca
 
 The following are required elements of the final script that is turned in:
 
-The script should use a sqlite database.
+* The script should use a sqlite database.
 You can use the world.sqlite or other database we have used in class, download database, or make your own as part of the script.
 Remember that we are working with sqlite, and we don't need huge databases for our purposes
 The database should have at least two tables and a foreign key.
